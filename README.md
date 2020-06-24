@@ -24,3 +24,6 @@ If there were transaction data in our case we would have used RDBMS like postgre
 Asynchronous Testing
 
 We used mocha and chai to do the testing. Mocha allows asynchronous testing, test coverage reports, and use of any assertion library. Chai is a BDD / TDD assertion library for NodeJS and the browser that can be delightfully paired with any javascript testing framework. Basically, mocha is a framework and chai is a library
+
+
+PS: assignment has been hosted here: 3.6.36.4:8081 (Amazon Lighsail Instance)
